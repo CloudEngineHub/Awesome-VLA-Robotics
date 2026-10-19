@@ -116,6 +116,8 @@ This section is the heart of the resource, listing specific VLA models and influ
 Focuses on tasks involving interaction with objects, ranging from simple pick-and-place to complex, dexterous, long-horizon activities. This is a major application area for VLA research.
 ##### 2026
 
+- [2026] **Recursive Harness Distillation across Agents for Robot Manipulation** [[paper](https://arxiv.org/abs/2609.33378)] [[project](https://seungyeon.me/RHD/)] *(Seoul National University, KAIST)*
+
 - [2026] **Observing and Controlling Features in Vision-Language-Action Models** [[paper](https://arxiv.org/abs/2603.05487)] *(Stanford, Marco Pavone)*
 
 - [2026] **Pretrained Vision-Language-Action Models are Surprisingly Resistant to Forgetting in Continual Learning** [[paper](https://arxiv.org/abs/2603.03818)] *(UT Austin, Yuke Zhu)*
